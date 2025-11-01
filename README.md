@@ -10,11 +10,12 @@ Visit the live site: [https://shirikumo.github.io/Endwalkers/](https://shirikumo
 
 ## Contents
 
-- `index.html` - Homepage with navigation menu
-- `page/crests.html` - Structures Crests statistics with comprehensive trait information
+- `index.md` - Homepage (Jekyll minimal theme)
+- `_config.yml` - Jekyll configuration
+- `pages/crests.html` - Structures Crests statistics with comprehensive trait information
 - `assets/crests/` - Crest icons and images
 
 ## Available Pages
 
 - **Home**: [https://shirikumo.github.io/Endwalkers/](https://shirikumo.github.io/Endwalkers/)
-- **Structures Crests Stats**: [https://shirikumo.github.io/Endwalkers/crests.html](https://shirikumo.github.io/Endwalkers/crests.html)
+- **Structures Crests Stats**: [https://shirikumo.github.io/Endwalkers/pages/crests.html](https://shirikumo.github.io/Endwalkers/pages/crests.html)
