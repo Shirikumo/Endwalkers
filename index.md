@@ -8,8 +8,8 @@ title: Endwalkers
 
 * * *
 
-Ce dépôt est configuré pour servir de site GitHub Pages à la racine.
+Ce dépôt est configuré pour servir de site GitHub Pages à la racine.  
 This repository is configured to serve as a GitHub Pages site at the root directory.
 
-Visitez le site : [https://shirikumo.github.io/Endwalkers/](https://shirikumo.github.io/Endwalkers/)
+Visitez le site : [https://shirikumo.github.io/Endwalkers/](https://shirikumo.github.io/Endwalkers/)  
 Visit the live site: [https://shirikumo.github.io/Endwalkers/](https://shirikumo.github.io/Endwalkers/)
